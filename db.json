@@ -28,10 +28,9 @@
 			"fixed_fee": 0.5
 		}
 	],
-	"1": {
+	"merchants": [{
 		"name": "hshshhshsh"		
-	},
-	"2": {
-		"name": "hshshhshsh"		
-	}
+	},{
+		"name": "hshshhshsh2"		
+	}]
 }
