@@ -1,5 +1,5 @@
 {
-	"transactions": [{
+	"events": [{
 			"event": "PAYMENT",
 			"merchant_id": "1",
 			"value": 5,
