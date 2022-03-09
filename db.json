@@ -27,5 +27,17 @@
 			"fee": 0.02,
 			"fixed_fee": 0.5
 		}
+	],
+	"merchants": [
+		{
+			"id": "1",
+			"name": "Burger King",
+			"iban": "GB02BARC20038034488357"
+		},
+		{
+			"id": "2",
+			"name": "Macdonalds",
+			"iban": "GB12BARC20032624655975"
+		}
 	]
 }
