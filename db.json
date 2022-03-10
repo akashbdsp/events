@@ -26,6 +26,11 @@
 			"value": 3,
 			"fee": 0.02,
 			"fixed_fee": 0.5
+		},
+		{
+			"event": "REFUND",
+			"merchant_id": "1",
+			"value": 3
 		}
 	],
 	"merchants": [
